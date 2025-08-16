@@ -82,5 +82,10 @@ The goal of this project is to develop a robust system for detecting Alzheimer's
 - Expand functionality to include additional imaging modalities.
 - Deploy the system as a web-based application for broader accessibility.
 
+---
 
+## Website
+The Link to the website the model is deployed.
+https://huggingface.co/spaces/angel4sara/alzheimers-flask
 
+---
